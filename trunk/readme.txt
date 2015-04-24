@@ -1,5 +1,5 @@
 === WP REST API (WP API) ===
-Contributors: Nishant
+Contributors: nish@ncrafts.net
 Tags: json, rest, api, rest-api
 Requires at least: 3.9
 Tested up to: 4.1
