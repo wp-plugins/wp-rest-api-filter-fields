@@ -1,4 +1,4 @@
-=== WP REST API (WP API) ===
+=== WP REST API Filter Fields ===
 Contributors: nish@ncrafts.net
 Tags: json, rest, api, rest-api
 Requires at least: 3.9
